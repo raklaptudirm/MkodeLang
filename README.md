@@ -2,7 +2,7 @@
 Mkode is a new programming language designed by raklaptudirm. 
 This is v0.1.2.7, a pre-release.
 Mkode is an LOOPBNEOOP(Like OOP but not exactly OOP) or lup-benup(Pronounciation) language developed by Mridutpal Kar, written in C++.
-In this file, the main structures and ideas of Mkod will be discussed.
+In this file, the main structures and ideas of Mkode will be discussed.
 
 ## Classes:
 Classes in Mkode are defined as blocks of codes whih are indipendent of each other. Each class owns a set of variables, arrays and functions which can be used by it, but if it doesn't own the variables, arrays or functions, it can't use them. Classes are executed top to bottom.
