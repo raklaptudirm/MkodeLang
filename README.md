@@ -17,13 +17,14 @@ Function declaration:
 
     newObject:function[calc[var a, int num]] {
                       }
-*Function usage: function:
+Function usage: function:
 
     calc["hi",13];
-*Output in functions: 
+    
+Output in functions: 
 
     calc:out[var];
-*No output function: 
+No output function: 
 
     calc:out[void];
 
