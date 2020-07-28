@@ -41,7 +41,7 @@ Variable declaration:
     newObject:var[a,b,c];
 
 ## Console functions:
-Mkode provides three main console functions: clear, out, nextLine; which are used to clear the console, to print in the consolr and to move the cursor to the next line respectively.
+Mkode provides three main console functions: clear, out, nextLine; which are used to clear the console, to print in the console and to move the cursor to the next line respectively.
 Usage: 
 
     Console:clear[];
