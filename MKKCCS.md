@@ -1,5 +1,5 @@
 
-MKKCCS(MKode Keyboard Character Coding System)
+# MKKCCS(MKode Keyboard Character Coding System)
 
 This coding system has been developed by MK, creator of Mkode for use in 
 the language. This system can be validated by the provided sha256 and md5
@@ -9,14 +9,14 @@ board inputs.
 
 -------------------------------------------------------------------------
 
-Length- 96 codes (2-digit numeric) for 96 characters 
+### Length- 96 codes (2-digit numeric) for 96 characters 
 
 -------------------------------------------------------------------------
 
-sha256 and md5 hash values:
+### sha256 and md5 hash values:
 
-sha256- D3B877FC809ED33C77BFF33B1B830128FE29AD982CDFDD10A31E0D6BFE460CBB
-md5- 6D0B2290B8B8CD991FF8CB766BA7ADCB
+### sha256- D3B877FC809ED33C77BFF33B1B830128FE29AD982CDFDD10A31E0D6BFE460CBB
+### md5- 6D0B2290B8B8CD991FF8CB766BA7ADCB
 
 -------------------------------------------------------------------------
 
