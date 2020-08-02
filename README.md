@@ -55,7 +55,7 @@ Example:
     Console:out["hi" & var & "Hello world" & num];
 
 ## Input:
-    Kode:in[datatype];//Data types can be int, float, string, char, boolean
+    Kode:in[datatype];//Data types can be int, float, string, char, boolean, num, unsigned
 Storage: 
 
     integer=Kode:in[int];
@@ -78,8 +78,7 @@ Path selection is just like switching in Java or C++.
 Usage: 
 
     proceedTo[] {
-    path[a]{
-    } path [b]{
-    }path[c]{
-    }
+    path[a]:
+    path[b]:
+    path[c]:
     }
