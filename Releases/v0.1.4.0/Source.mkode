@@ -1,0 +1,5 @@
+Console:out["wow"];#printing wow
+#'comments work!
+gjjgdej'#
+Console:nextLine[1];#setting cursor to the next line
+Console:out["hi"];#printing hi
