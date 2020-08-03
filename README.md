@@ -3,6 +3,13 @@ Mkode is a new programming language designed by raklaptudirm.
 This is v0.1.2.7, a pre-release.
 Mkode is an LOOPBNEOOP(Like OOP but not exactly OOP) or lup-benup(Pronounciation) language developed by Mridutpal Kar, written in C++.
 In this file, the main structures and ideas of Mkode will be discussed.
+# Features of Mkode:
+Mkode is the programming language for the future. Mkode's synatx is consistent and their are no data types for variables. But that doesn't mean you cant take input or convert to any particular data type. Mkode is also free from any sort of run-time errors: If the syntax is correct, there will be no errors.
+Mkode also converts the value of variables to another data type automatically when required. So "1"+1 results in 2. To join strings, the operator @ is used.
+----
+# Building the compiler:
+To build the compiler, download the code flies of the release you want to use. Using a C++ compiler(Dev is reccomended) run the .dev file and generate an .exe file. Write your code in the "Source.mkode" file and run the .exe file.
+----
 
 ## Classes:
 Classes in Mkode are defined as blocks of codes whih are indipendent of each other. Each class owns a set of variables, arrays and functions which can be used by it, but if it doesn't own the variables, arrays or functions, it can't use them. Classes are executed top to bottom.
