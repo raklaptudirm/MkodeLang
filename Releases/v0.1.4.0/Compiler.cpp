@@ -241,7 +241,7 @@ string parse(string st_parse) { //String Parser (for Console:out)
 int main() { 
     int sl=0, ml=0, com_count;
     string code="", ch, temp_com, com_char;
-    const string version="v0.1.0.2";
+    const string version="v0.1.4.0";
     ifstream read("Source.mkode");
     while (getline(read,ch)) {
         sl=0;
