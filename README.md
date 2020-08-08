@@ -1,5 +1,5 @@
 ![Mkode](https://github.com/raklaptudirm/Mkode_compiler/blob/master/Mkode_icon.png)
-[![Build Status](https://travis-ci.org/{raklaptudirm}/{Mkode_compiler}.png?branch=master)](https://travis-ci.org/{raklaptudirm}/{Mkode_compiler})
+
 # Mkode
 Mkode is a new programming language designed by raklaptudirm. 
 This is v0.1.2.7, a pre-release.
