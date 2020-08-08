@@ -13,7 +13,7 @@ Mkode also converts the value of variables to another data type automatically wh
 To build the compiler, download the code files of the release you want to use. Using a C++ compiler(Dev is reccomended) run the .dev file and generate an .exe file. Write your code in the "Source.mkode" file and run the .exe file.
 ## Comments:
 Comments in Mkode are done as follows:
-/# for single line comments:
+#for single line comments:
 
     #Single Line Comment
  #' and '# for multi line comments:
