@@ -3,7 +3,7 @@
 ![Mkode]( https://github.com/raklaptudirm/Mkode_compiler/blob/master/68747470733a2f2f7472617669732d63692e6f72672f6477796c2f657374612e7376673f6272616e63683d6d6173746572.svg )
 # Mkode
 Mkode is a new programming language designed by raklaptudirm. 
-This is v0.1.2.7, a pre-release.
+This is v0.1.4.0, a pre-release.
 Mkode is an LOOPBNEOOP(Like OOP but not exactly OOP) or lup-benup(Pronounciation) language developed by Mridutpal Kar, written in C++.
 In this file, the main structures and ideas of Mkode will be discussed.
 # Features of Mkode:
