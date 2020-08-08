@@ -10,7 +10,7 @@ In this file, the main structures and ideas of Mkode will be discussed.
 Mkode is the programming language for the future. Mkode's synatx is consistent and their are no data types for variables. But that doesn't mean you cant take input or convert to any particular data type. Mkode is also free from any sort of run-time errors: If the syntax is correct, there will be no errors.
 Mkode also converts the value of variables to another data type automatically when required. So "1"+1 results in 2. To join strings, the operator @ is used.
 # Building the compiler (For v0.1.4.0 and older):
-To build the compiler, download the code flies of the release you want to use. Using a C++ compiler(Dev is reccomended) run the .dev file and generate an .exe file. Write your code in the "Source.mkode" file and run the .exe file.
+To build the compiler, download the code files of the release you want to use. Using a C++ compiler(Dev is reccomended) run the .dev file and generate an .exe file. Write your code in the "Source.mkode" file and run the .exe file.
 ## Comments:
 Comments in Mkode are done as follows:
 /# for single line comments:
