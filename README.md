@@ -23,7 +23,7 @@ Comments in Mkode are done as follows:
 
 
 ## Classes:
-Classes in Mkode are defined as blocks of codes whih are indipendent of each other. Each class owns a set of variables, arrays and functions which can be used by it, but if it doesn't own the variables, arrays or functions, it can't use them. Classes are executed top to bottom.
+Classes in Mkode are defined as blocks of codes whih are independent of each other. Each class owns a set of variables, arrays and functions which can be used by it, but if it doesn't own the variables, arrays or functions, it can't use them. Classes are executed top to bottom.
 Class declaration: 
 
     newObject:class[main] {
