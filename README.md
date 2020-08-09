@@ -66,7 +66,7 @@ Usage:
     Console:clear[];
     Console:out["hello world"];
     Console:nextLine[2]; //The number specifies the number of lines to skip.
-The print string is created as follows:`[a&a&a&a];`
+The print string is created as follows:`[a@a@a@a];`
 `a` can be replaced by both constants and variables and expressions.
 Example: 
 
