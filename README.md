@@ -1,6 +1,5 @@
 ![Mkode](https://github.com/raklaptudirm/Mkode_compiler/blob/master/Mkode_icon.png)
 
-![Mkode]( https://github.com/raklaptudirm/Mkode_compiler/blob/master/68747470733a2f2f7472617669732d63692e6f72672f6477796c2f657374612e7376673f6272616e63683d6d6173746572.svg )      ![Mkode](https://github.com/raklaptudirm/Mkode_compiler/blob/master/hi.svg)
 # Mkode
 Mkode is a new programming language designed by raklaptudirm. 
 This is `v0.1.4.0`, a pre-release.
@@ -9,8 +8,13 @@ In this file, the main structures and ideas of Mkode will be discussed.
 # Features of Mkode:
 Mkode is the programming language for the future. Mkode's syntax is consistent and their are no data types for variables. But that doesn't mean you cant take input or convert to any particular data type. Mkode is also free from any sort of run-time errors: If the syntax is correct, there will be no errors.
 Mkode also converts the value of variables to another data type automatically when required. So `"1"+1` results in `2`. To join strings, the operator `@` is used.
-# Building the compiler (For `v0.1.4.0` and older):
-To build the compiler, download the code files of the release you want to use. Using a C++ compiler run the `.cpp` file and generate an .exe file. Write your code in the `Source.mkode` file and run the .exe file.
+# Building the compiler:
+To build the compiler, download the code files of the release you want to use. Using a C++ compiler run the `.cpp` file and generate an `.exe` file.
+# Using the compiler:
+### Version `v0.1.4.0` and older:
+To use the compiler, write your code in the Source.mkode file and run the `.exe` file.
+### Others:
+To use the compiler, write your code in a file and run the `.exe`. Provide the file path to the compiler. 
 ## Comments:
 Comments in Mkode are done as follows:
 `#`for single line comments:
@@ -22,14 +26,14 @@ Comments in Mkode are done as follows:
      comment'#
 
 
-## Classes:
+## Classes: (Not Implimented)
 Classes in Mkode are defined as blocks of codes whih are independent of each other. Each class owns a set of variables, arrays and functions which can be used by it, but if it doesn't own the variables, arrays or functions, it can't use them. Classes are executed top to bottom.
 Class declaration: 
 
     New:class[main] {
                    }
 
-## Functions:
+## Functions: (Not Implimented)
 Functions are code blocks which can take inputs and run code according to them when called by the classes. They are not executed on their own.
 Function declaration:
 
@@ -46,7 +50,7 @@ No output function:
 
     calc:out[void];
 
-## Flowing concept:
+## Flowing concept: (Not Implimented)
 Flowing is a new concept in Mkode. Flowing a variable, array, function into a class means allowing the class to use them. Multiple objects can also be flowed into multiple classes.
 Flowing: 
 
@@ -57,7 +61,7 @@ Flowing:
 Variables in Mkode are weak typed. Or, they have no paticular data type. But they are Static typed, or have to be declared.
 Variable declaration: 
 
-    newObject:var[a,b,c];
+    New:var[a,b,c];
 
 ## Console functions:
 Mkode provides three main console functions: `clear`, `out`, `nextLine`; which are used to clear the console, to print in the console and to move the cursor to the next line respectively.
@@ -73,25 +77,24 @@ Example:
     Console:out["hi" & var & "Hello world" & num];
 
 ## Input:
-    Kode:in[datatype];//Data types can be int, float, string, char, boolean, num, unsigned
-Storage: 
-
-    integer=Kode:in[int];
+    Kode:in[]:var_name;
 
 ## Halt function:
 The halt function stops the execution of the program immidiately when this statement is encountered.
 Usage: 
 
     Kode:halt[];
-
-## If usage:
+## Delay Function:
+    Kode:delay[time_in_milliseconds];
+    
+## If usage: (Not Implimented)
 
     if []{
     } elseIf [] {
     } else {
     }
 
-## Path selection:
+## Path selection: (Not Implimented)
 Path selection is just like switching in Java or C++.
 Usage: 
 
