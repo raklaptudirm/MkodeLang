@@ -58,7 +58,7 @@ Flowing:
          }
 
 ## Variables:
-Variables in Mkode are weak typed. Or, they have no paticular data type. But they are Static typed, or have to be declared.
+Variables in Mkode are weak typed. Or, they have no paticular data type. But they are Static typed, or have to be declared. The default value of variables in Mkode is 0.
 Variable declaration: 
 
     New:var[a,b,c];
