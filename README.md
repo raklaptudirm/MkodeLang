@@ -6,7 +6,7 @@ This is `v0.3.2.1`, a pre-release.
 Mkode is an LOOPBNEOOP(Like OOP but not exactly OOP) or lup-benup(Pronounciation) language, written in C++.
 In this file, the main structures and ideas of Mkode will be discussed.
 
-Learn MkodeLang [here](https://github.com/raklaptudirm/Mkode_compiler/blob/master/LearnMkode.md).
+Learn MkodeLang [here](https://github.com/raklaptudirm/Mkode_resources/blob/master/LearnMkode.md).
 
 Get the Sublime Text syntax highlighter [here](https://github.com/raklaptudirm/Mkode_syntax_highlighter).
 ![Highlighting](https://github.com/raklaptudirm/Mkode_syntax_highlighter/blob/master/Syntax.png)
