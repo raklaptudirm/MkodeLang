@@ -28,6 +28,8 @@ To use the compiler, write your code in a file and run the `.exe`. Provide the f
 - [x] Escape sequence support
 - [x] ustring parsing support
 - [x] Variable support
+- [ ] Variable encoding
+- [ ] Conditional operators
 - [ ] Compile-time declaration
 - [ ] Array Support
 - [ ] if, else if, else support
