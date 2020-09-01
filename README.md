@@ -18,5 +18,18 @@ To build the compiler, download the code files of the release you want to use. U
 To use the compiler, write your code in the Source.mkode file and run the `.exe` file.
 ### Later versions:
 To use the compiler, write your code in a file and run the `.exe`. Provide the file path to the compiler.
-# Roadmap:
--[x]
+# Roadmap (Follow for latest updates):
+- [x] Console functions
+- [x] Halt and Delay function
+- [x] UES Evaluator
+- [x] Parentheses support
+- [x] Escape sequence support
+- [x] ustring parsing support
+- [x] Variable support
+- [ ] Compile-time declaration
+- [ ] Array Support
+- [ ] if, else if, else support
+- [ ] for, while, do-while support
+- [ ] Object support
+- [ ] Function support
+- [ ] Class support
