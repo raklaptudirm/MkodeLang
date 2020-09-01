@@ -1,24 +1,4 @@
-![Mkode](https://github.com/raklaptudirm/Mkode_compiler/blob/master/Mkode_icon.png)
-
-# Mkode
-Mkode is a new programming language designed by raklaptudirm. 
-This is `v0.3.2.1`, a pre-release.
-Mkode is an LOOPBNEOOP(Like OOP but not exactly OOP) or lup-benup(Pronounciation) language, written in C++.
-In this file, the main structures and ideas of Mkode will be discussed.
-
-Get the Sublime Text syntax highlighter [here](https://github.com/raklaptudirm/Mkode_syntax_highlighter).
-![Highlighting](https://github.com/raklaptudirm/Mkode_syntax_highlighter/blob/master/Syntax.png)
-# Features of Mkode:
-Mkode is the programming language for the future. Mkode's syntax is consistent and their are no data types for variables. But that doesn't mean you cant take input or convert to any particular data type. Mkode is also free from any sort of run-time errors: If the syntax is correct, there will be no errors.
-Mkode also converts the value of variables to another data type automatically when required. So `"1"+1` results in `2`. To join strings, the operator `@` is used. Therefor, `"1"@1` results in `11`.
-# Building the compiler:
-To build the compiler, download the code files of the release you want to use. Using a C++ compiler run the `.cpp` file and generate an `.exe` file.
-# Using the compiler:
-### Version `v0.1.4.0` and older:
-To use the compiler, write your code in the Source.mkode file and run the `.exe` file.
-### Later versions:
-To use the compiler, write your code in a file and run the `.exe`. Provide the file path to the compiler. 
-## Comments:
+ ## Comments:
 Comments in Mkode are done as follows:
 `#`for single line comments:
 
