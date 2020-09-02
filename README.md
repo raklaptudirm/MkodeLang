@@ -1,8 +1,8 @@
 ![Mkode](https://github.com/raklaptudirm/Mkode_compiler/blob/master/Mkode_icon.png)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ![version](https://img.shields.io/badge/Version-v0.3.2.1-blue)
+![code quality](https://img.shields.io/badge/code%20quality-A%2B-brightgreen)
 
 # Mkode
 Mkode is a new programming language designed by raklaptudirm. 
