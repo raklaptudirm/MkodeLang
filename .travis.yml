@@ -1,4 +1,3 @@
 language: c++
-rvm:
+c++:
 -11
--c++
