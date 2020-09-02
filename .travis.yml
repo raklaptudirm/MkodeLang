@@ -1,0 +1,4 @@
+language: c++
+rvm:
+-11
+-c++
