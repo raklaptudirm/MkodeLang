@@ -1,3 +1,4 @@
+# THIS REPO IS ARCHIVED AND NO LONGER SUPPORTED. SEE THE LATEST MKODE VERSION [HERE](https://github.com/MkodeLang/MkodeLang): 
 ![Mkode](https://github.com/raklaptudirm/Mkode_compiler/blob/master/Mkode_icon.png)
 
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
